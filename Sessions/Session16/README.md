@@ -38,10 +38,10 @@ Monday Sep 19, 2022
 * 10:30 AM – 11:00 AM o Break 
 * 11:00 AM – 12:00 PM o  [Problem](Day1/Introduction%20to%20Probability%20Problems%20no%20solutions.ipynb)| [Solution](Day1/Introduction%20to%20Probability%20Problems.ipynb): Introduction to Probability and its Applications, B Scott 
 * 12:00 PM – 01:30 PM o LUNCH 
-* 01:30 PM – 02:30 PM o  [Understanding Data, Optimization, and Classical Inference](Day1/ConnectingModelsAndData.ipynb) A Miller   
+* 01:30 PM – 02:30 PM o  [🎥](https://www.youtube.com/watch?v=aZ11foGc1eo) [Understanding Data, Optimization, and Classical Inference](Day1/ConnectingModelsAndData.ipynb) A Miller   
 * 02:30 PM – 03:30 PM o  [Problem](Day1/MaximumLikelihoodEstimation.ipynb) | [Solution](Day1/MaximumLikelihoodEstimationSolutions.ipynb): Optimization; A. Miller 
 * 03:30 PM – 04:00 PM o Break 
-* 04:00 PM – 05:00 PM o [Introduction to Bayesian Statistics](Day1/Bayes.pdf); J Dong 
+* 04:00 PM – 05:00 PM o [🎥](https://www.youtube.com/watch?v=xTXroqYzUEA) [Introduction to Bayesian Statistics](Day1/Bayes.pdf); J Dong 
 * 05:00 PM – 06:00 PM o  [Problem](Day1/Bayes.ipynb) | [Solution](Day1/Bayes_solution.ipynb): Introduction to Bayesian Statistics; J Dong
  
 ## Day 2 – Sampling and Model building  
@@ -51,7 +51,7 @@ Monday Sep 19, 2022
 -- John Von Neumann
 
 Tuesday, Sep 20, 2022
-* 09:00 AM - 10:00 AM o [An Introduction to Sampling, PyMC](Day2/MCMC.pdf) – J Dong  
+* 09:00 AM - 10:00 AM o [🎥](https://youtu.be/YKri7Hos2Xc?si=5r1dL-3-eTO1d_mN)[An Introduction to Sampling, PyMC](Day2/MCMC.pdf) – J Dong  
 * 10:00 AM - 10:30 AM o Break 
 * 10:30 AM - 12:00 PM o [Sampling](Day2/Sampling.ipynb) | [Sampling Solution](Day2/Sampling_solution.ipynb) | [PyMC Applied](Day2/PyMC_applied.ipynb) | [PyMC Applied Solution](Day2/PyMC_applied_solution.ipynb) –– PyMC applied to real data; J Dong  
 * 12:00 PM - 01:30 PM o LUNCH 
@@ -69,7 +69,7 @@ Tuesday, Sep 20, 2022
 -- John Tukey 
 
 Wednesday, Sep 21, 2022
-* 09:00 AM – 09:45 AM o  [Probabilistic Graphical Models](Day3/PGM-slides.pdf), A Price-Whelan  
+* 09:00 AM – 09:45 AM o  [🎥](https://youtu.be/LrYRPYHQOs8?si=oAo3asYPX_r2QddO)[Probabilistic Graphical Models](Day3/PGM-slides.pdf), A Price-Whelan  
 * 09:45 AM – 10:15 AM o Break 
 * 10:15 AM – 12:00 PM o  [Problem](Day3/Probabilistic-Graphical-Models.ipynb)| [Solutions](Day3/solutions): Probabilistic Graphical Models, A Price-Whelan  
 * 12:00 PM – ??:?? PM o BREAK 
@@ -81,7 +81,7 @@ Wednesday, Sep 21, 2022
 -- R.A. Fisher
 
 Thursday, Sep 22, 2022 
-* 09:00 AM – 10:00 AM o Hierarchical Models [Part 1](Day4/Hierarchical-models-1.ipynb) | [Part 2](Day4/Hierarchical-models-2.ipynb); A Price-Whelan  
+* 09:00 AM – 10:00 AM o [🎥](https://youtu.be/EuKUKBXUVW8?si=uplaVQ_-wo5S5JIo) Hierarchical Models [Part 1](Day4/Hierarchical-models-1.ipynb) | [Part 2](Day4/Hierarchical-models-2.ipynb); A Price-Whelan  
 * 10:00 AM – 10:30 AM o Break 
 * 10:30 AM – 12:00 PM o  Problem: Hierarchical Models [Solutions](Day4/solutions); A Price-Whelan  
 * 12:00 PM – 01:30 PM o LUNCH 
