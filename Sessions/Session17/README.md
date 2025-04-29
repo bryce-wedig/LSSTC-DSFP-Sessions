@@ -19,7 +19,7 @@ Monday Feb 27, 2023
 * 10:30 AM – 11:00 AM o Break 
 * 11:00 AM - 12:00 PM o Problem I: [Data Sketches](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session17/dsfp_session17_data_sketches.ipynb); B Scott
 * 12:00 PM – 01:30 PM o LUNCH 
-* 01:30 PM – 02:30 PM o  Lecture II: [Principles of Perception](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session17/Perception.pptx); P Rosen
+* 01:30 PM – 02:30 PM o  Lecture II: [:movie_camera:](https://www.youtube.com/watch?v=4kcHEN-lJ0w)[Principles of Perception](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session17/Perception.pptx); P Rosen
 * 02:30 PM – 4:00 PM o  Problem II: [Principles of Perception](https://github.com/LSSTC-DSFP/LSSTC-DSFP-Sessions/blob/main/Sessions/Session17/PerceptionActivity.pptx); P Rosen
 * 04:00 PM – 04:30 PM o Break 
 * 04:30 PM – 05:30 PM o Lecture III: Common Errors in Science Communication; L Walkowicz 
@@ -36,10 +36,10 @@ Tuesday, Feb 28, 2023
 
 * 09:00 AM - 10:00 AM o Lecture IV: [Physically Based Volume Rendering](Day2/PhysicallyBasedVolumeRendering.pdf); O Elek 
 * 10:00 AM - 10:30 AM o Break 
-* 10:30 AM - 12:00 PM o Problem III: Physically Based Volume Rendering; O Elek 
+* 10:30 AM - 12:00 PM o Problem III:  [:movie_camera:](https://www.youtube.com/watch?v=rOkLlMG_C7U) Physically Based Volume Rendering; O Elek 
 * 12:00 PM - 01:30 PM o LUNCH 
 * 01:30 PM - 02:30 PM o Lecture V: Data Exploration and Communication; P Rosen
-* 02:30 PM - 04:00 PM o Problem IV: [Data Exploration and Communication](Day2/DesignActivity.pdf); P Rosen
+* 02:30 PM - 04:00 PM o Problem IV:  [:movie_camera:](https://www.youtube.com/watch?v=3F3WUbSip0Y)[Data Exploration and Communication](Day2/DesignActivity.pdf); P Rosen
 * 04:00 PM - 04:30 PM o BREAK 
 * 04:30 PM - 05:00 PM o Lecture VI: [Building Better Slides via Principles of Design](Day2/BuildingBetterSlidesViaPrinciplesOfDesign.pdf); A Miller
 * 05:00 PM - 05:45 PM o Problem V: [Improve Slides with Design](Day2/BuildingBetterSlidesProblem.md); A Miller
@@ -55,7 +55,7 @@ Tuesday, Feb 28, 2023
 
 Wednesday, Mar 1, 2023
 
-* 09:00 AM – 10:00 AM o Lecture VII: Introduction to Polyphorm and PolyPhy; O Elek, 
+* 09:00 AM – 10:00 AM o Lecture VII:  [:movie_camera:](https://www.youtube.com/watch?v=yVZIsqLPi5o) Introduction to Polyphorm and PolyPhy; O Elek, 
 * 10:00 AM – 10:30 AM o Break 
 * 10:30 AM – 12:00 PM o  Problem VI: Polyphorm; O Elek 
 * 12:00 - 12:30 PM o Hack Pitch Session 
